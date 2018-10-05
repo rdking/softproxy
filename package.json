@@ -1,0 +1,15 @@
+{
+  "name": "softproxy",
+  "version": "0.1.0",
+  "description": "Proxy extension with unwrapping ability",
+  "main": "softproxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "proxy"
+  ],
+  "author": "Ranando D. King",
+  "license": "Apache-2.0"
+}
